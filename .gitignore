@@ -1,0 +1,24 @@
+# Node.js dependency directories
+node_modules/
+
+# TypeScript build output
+dist/
+
+# Playwright test output
+e2e-tests/test-results/
+e2e-tests/screenshots/
+
+# Jest test output
+coverage/
+api-tests/test-results/
+
+# Editor settings
+.vscode/
+.idea/
+*.swp
+*.swo
+*.swn
+
+# Operating system files
+.DS_Store
+Thumbs.db

@@ -1,0 +1,16 @@
+{
+    "compilerOptions": {
+      "module": "commonjs",
+      "target": "ES6",
+      "strict": true,
+      "esModuleInterop": true,
+      "skipLibCheck": true,
+      "forceConsistentCasingInFileNames": true,
+      "outDir": "../dist/e2e-tests"
+    },
+    "include": ["./**/*.ts"],
+    "exclude": [
+      "node_modules"
+    ]
+  }
+  
